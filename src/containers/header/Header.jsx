@@ -10,10 +10,9 @@ const Header = () => {
           Let&apos;s Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          ChatGPT is a language model developed by OpenAI that uses deep
+          learning techniques to generate human-like text responses based on
+          given prompts or questions.
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address" />
